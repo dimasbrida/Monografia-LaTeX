@@ -2272,4 +2272,3 @@ http://abntex.codigolivre.org.br\space\spABNT\spABNT|}%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \endinput
-
